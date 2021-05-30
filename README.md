@@ -1,4 +1,4 @@
-# Hi there, I am Arif Shahriar :wave:
+# Hi there, I am **Arif Shahriar** :wave:
 
 ## ✉️ Find me on:
 
