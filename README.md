@@ -1,6 +1,6 @@
 ## Hi there, I am **Arif Shahriar** :wave:
 
-## Hi there, I am **Arif Shahriar** :wave:
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
 ## ✉️ Find me on:
 
@@ -15,7 +15,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar1996&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar1996&theme=tokyonight)
-
-```diff
-Arif (and bold)@@
-```
