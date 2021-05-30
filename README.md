@@ -17,5 +17,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar1996&theme=tokyonight)
 
 ```diff
-@@Arif (and bold)@@
+Arif (and bold)@@
 ```
