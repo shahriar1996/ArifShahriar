@@ -9,7 +9,7 @@
 
 <br />
 
-Thanks for visiting! Peace be upon you! ![](https://visitor-badge.laobi.icu/badge?page_id=shahriar1996.shahriar1996)
+**Thanks for visiting! Peace be upon you!** ![](https://visitor-badge.laobi.icu/badge?page_id=shahriar1996.shahriar1996)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar1996&show_icons=true&theme=tokyonight)
 
