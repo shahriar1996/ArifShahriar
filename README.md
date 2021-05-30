@@ -1,4 +1,8 @@
-# ArifShahriar
+# Hi there, I am 
+<div class="text-purple">
+  Arif Shahriar, <a href="#6f42c1" class="text-inherit">including the link</a>
+</div>
+Arif Shahriar :wave:
 
 ## ✉️ Find me on:
 
