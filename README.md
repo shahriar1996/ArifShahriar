@@ -13,3 +13,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar1996&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar1996&theme=tokyonight)
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
