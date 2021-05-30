@@ -17,9 +17,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar1996&theme=tokyonight)
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+@@Arif (and bold)@@
 ```
