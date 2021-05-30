@@ -12,5 +12,4 @@
 **Thanks for visiting! Peace be upon you!** ![](https://visitor-badge.laobi.icu/badge?page_id=shahriar1996.shahriar1996)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar1996&show_icons=true&theme=tokyonight)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahriar1996&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar1996&theme=tokyonight)
