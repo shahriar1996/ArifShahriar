@@ -1,4 +1,6 @@
-## Hi there, I am **Arif Shahriar** :wave:
+## Hi there, I am **Arif Shahriar** :wave
+
+## Hi there, I am ```diff @@ Arif Shahriar (and bold)@@ ```:wave:
 
 ## ✉️ Find me on:
 
