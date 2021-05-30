@@ -13,3 +13,5 @@
 	<a href="https://www.linkedin.com/in/shahriararif/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/arif.shahriar.1232/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 </p>
+
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Arif Shahriar!](https://www.linkedin.com/in/shahriararif/) 
