@@ -1,7 +1,5 @@
 # Hi there, I am [Arif Shahriar](#) :wave:
 
-# 2014, The year of [Blue](#)
-
 ## ✉️ Find me on:
 
 <p align="center">
