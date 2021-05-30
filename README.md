@@ -1,6 +1,6 @@
 ## Hi there, I am **Arif Shahriar** :wave:
 
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+# 2014, The year of [Blue](#)
 
 ## ✉️ Find me on:
 
