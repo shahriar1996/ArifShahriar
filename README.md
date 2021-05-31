@@ -14,4 +14,4 @@
 	<a href="https://www.facebook.com/arif.shahriar.1232/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 </p>
 
-**Thanks for visiting! Peace be upon you!** <p align="right"> <img src="https://komarev.com/ghpvc/?username=shahriar1996" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shahriar1996" /> </p>
