@@ -1,3 +1,7 @@
+<p align="center">
+<br><img src="https://github.com/shahriar1996/shahriar1996/blob/main/developer.gif" width="280px"><br><br>
+</p>
+
 ## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Arif Shahriar!](https://www.linkedin.com/in/shahriararif/) 
 
 <br />
@@ -15,7 +19,3 @@
 **Thanks for visiting! Peace be upon you!** 
 <br />
 ![](https://visitor-badge.laobi.icu/badge?page_id=shahriar1996.shahriar1996)
-
-<p align="center">
-<br><img src="https://github.com/shahriar1996/shahriar1996/blob/main/developer.gif" width="280px"><br><br>
-</p>
